@@ -1,6 +1,6 @@
 # COMP.SGN.360 Imaging Systems Laboratory: Assignment 1, White Balance
 
-**Name:** _your name_  **Student number:** _your number_
+**Name:** Emmanuel Safo **Student number:** 
 
 ## 1. Introduction
 
